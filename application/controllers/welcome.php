@@ -42,5 +42,6 @@ class Welcome extends CI_Controller {
 		$this->load->view('head');
 		$this->load->view('setting');
 		$this->load->view('foot');
+		
 	}
 }
